@@ -2,6 +2,10 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+.title {
+    text-align: center;
+}
+
 img {
     display: block;
     margin-left: auto;
@@ -9,4 +13,13 @@ img {
     width: 50%;
     height: 500px;
     width: 500px;
+}
+
+.description {
+    text-align: center; 
+}
+
+.song-list {
+    text-align: center;
+    list-style: none;
 }
