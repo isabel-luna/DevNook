@@ -22,4 +22,5 @@ img {
 .song-list {
     text-align: center;
     list-style: none;
+    font-weight: bold;
 }
