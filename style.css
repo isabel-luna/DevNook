@@ -23,9 +23,3 @@ img {
     width: 500px;
     background-color: rgba(102, 100, 89, 0.2);
 }
-
-.song-list {
-    text-align: center;
-    list-style: none;
-    font-weight: bold;
-}
