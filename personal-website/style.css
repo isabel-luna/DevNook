@@ -3,6 +3,11 @@
   background-color: rgb(184, 192, 255);
 }
 
+.nav-container {
+  display: flex;
+  justify-content: space-around;
+}
+
 .portrait-photo {
   width: 300px;
   height: 400px;
