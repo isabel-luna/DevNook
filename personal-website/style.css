@@ -8,6 +8,14 @@
   justify-content: space-around;
 }
 
+.nav-container a {
+  text-decoration: none;
+  border: 2px solid rgb(48, 13, 78);
+  border-radius: 20px;
+  background-color: rgb(193, 154, 226);
+  padding: 4px;
+}
+
 .portrait-photo {
   width: 300px;
   height: 400px;
