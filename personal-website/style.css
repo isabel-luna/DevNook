@@ -1,11 +1,15 @@
 * {
   font-family: Verdana, Tahoma;
   background-color: rgb(184, 192, 255);
+  margin: 0;
+  padding: 0;
 }
 
 .nav-container {
   display: flex;
   justify-content: space-around;
+  background-color: rgb(141, 99, 177);
+  padding: 10px;
 }
 
 .nav-container a {
@@ -39,8 +43,10 @@
 .container h1 {
   font-size: 100px;
   text-align: center;
+  padding: 10px;
 }
 
 .bio {
   text-align: center;
+  padding: 10px;
 }
