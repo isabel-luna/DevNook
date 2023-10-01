@@ -20,6 +20,11 @@
   padding: 4px;
 }
 
+.nav-container a:hover {
+  color: rgb(239, 219, 255);
+  background-color: rgb(127, 90, 158);
+}
+
 .portrait-photo {
   width: 300px;
   height: 400px;
