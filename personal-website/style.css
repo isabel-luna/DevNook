@@ -18,6 +18,8 @@
   border-radius: 20px;
   background-color: rgb(193, 154, 226);
   padding: 4px;
+  transition-property: background-color;
+  transition-duration: 700ms;
 }
 
 .nav-container a:hover {
