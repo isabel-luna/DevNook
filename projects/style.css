@@ -29,4 +29,5 @@ img:hover {
   margin-right: auto;
   width: 500px;
   background-color: rgba(102, 100, 89, 0.2);
+  cursor: default;
 }
